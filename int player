@@ -1,0 +1,3 @@
+int playerX = 50;
+int playerY = 50;
+int playerSpeed = 5;
